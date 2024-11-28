@@ -105,9 +105,11 @@ a {
 }
 
 .input-text {
-  text-align: center;
+  height: 2rem;
+  width: 10rem;
   border-radius: 15px;
-  margin-right: 40px;
+  margin-right: 10rem;
+  border: 2px solid rgb(188, 188, 188);
 }
 
 .image {
